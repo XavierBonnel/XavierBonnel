@@ -2,6 +2,7 @@
 
 - 🎨 I’m currently working as a Multimedia Designer
 - 🚀 I’ve learned React and React Native at the french Bootcamp Le Réacteur
+- ⚙️ I'm starting a Product Designer training
 - 🔥 I'm very interested in tech, art and communication
 - 💬 Ask me anything you want
 - 📫 How to reach me: xavierbonnel@pm.me
